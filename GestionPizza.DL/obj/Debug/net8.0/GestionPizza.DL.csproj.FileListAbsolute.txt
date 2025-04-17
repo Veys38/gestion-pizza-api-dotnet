@@ -1,0 +1,11 @@
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/bin/Debug/net8.0/GestionPizza.DL.deps.json
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/bin/Debug/net8.0/GestionPizza.DL.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/bin/Debug/net8.0/GestionPizza.DL.pdb
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.AssemblyInfoInputs.cache
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.AssemblyInfo.cs
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.csproj.CoreCompileInputs.cache
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/refint/GestionPizza.DL.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.pdb
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/ref/GestionPizza.DL.dll

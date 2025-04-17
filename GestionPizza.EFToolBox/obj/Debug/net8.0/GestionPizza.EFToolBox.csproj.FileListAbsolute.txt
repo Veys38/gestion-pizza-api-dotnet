@@ -1,0 +1,12 @@
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/bin/Debug/net8.0/GestionPizza.EFToolBox.deps.json
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/bin/Debug/net8.0/GestionPizza.EFToolBox.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/bin/Debug/net8.0/GestionPizza.EFToolBox.pdb
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.AssemblyInfoInputs.cache
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.AssemblyInfo.cs
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.csproj.CoreCompileInputs.cache
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/refint/GestionPizza.EFToolBox.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.pdb
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/ref/GestionPizza.EFToolBox.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.csproj.AssemblyReference.cache
