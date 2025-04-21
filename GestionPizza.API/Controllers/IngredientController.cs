@@ -1,5 +1,4 @@
-using GestionPizza.BLL.Services;
-using GestionPizza.DL.Entities;
+using GestionPizza.BLL.Services.Interfaces;
 using GestionPizza.Dtos.Ingredient;
 using GestionPizza.Mappeurs;
 using Microsoft.AspNetCore.Authorization;
@@ -11,21 +10,21 @@ namespace GestionPizza.Controllers;
 [ApiController]
 public class IngredientController : ControllerBase
 {
-    private readonly IngredientService _ingredientService;
+    private readonly IIngredientService _ingredientService;
     
-    public IngredientController(IngredientService ingredientService)
+    public IngredientController(IIngredientService ingredientService)
     {
         _ingredientService = ingredientService;
     }
     
     
-    
     [HttpGet]
-    public ActionResult<List<IngredientShortDto>> GetAll()
+    public ActionResult<IEnumerable<IngredientShortDto>> GetAll()
     {
-        List<IngredientShortDto> result = _ingredientService.FindAll()
-            .Select(b => b.ToIngredientShortDto())
+        var result = _ingredientService.FindAll()
+            .Select(i => i.ToShortDto())
             .ToList();
+        
         return Ok(result);
     }
     

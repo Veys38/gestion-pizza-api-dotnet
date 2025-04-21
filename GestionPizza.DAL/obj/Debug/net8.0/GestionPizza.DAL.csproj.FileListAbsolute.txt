@@ -17,3 +17,4 @@
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DAL/obj/Debug/net8.0/GestionPizza.DAL.pdb
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DAL/obj/Debug/net8.0/GestionPizza.DAL.genruntimeconfig.cache
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DAL/obj/Debug/net8.0/ref/GestionPizza.DAL.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DAL/obj/Debug/net8.0/GestionPizza.DAL.sourcelink.json

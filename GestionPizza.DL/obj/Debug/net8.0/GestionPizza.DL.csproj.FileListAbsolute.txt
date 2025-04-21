@@ -9,3 +9,4 @@
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/refint/GestionPizza.DL.dll
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.pdb
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/ref/GestionPizza.DL.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.DL/obj/Debug/net8.0/GestionPizza.DL.sourcelink.json

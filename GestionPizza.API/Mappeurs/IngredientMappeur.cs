@@ -5,7 +5,7 @@ namespace GestionPizza.Mappeurs;
 
 public static class IngredientMappeur
 {
-    public static IngredientShortDto ToIngredientShortDto(this Ingredient ingredient)
+    public static IngredientShortDto ToShortDto(this Ingredient ingredient)
     {
         return new IngredientShortDto
         {

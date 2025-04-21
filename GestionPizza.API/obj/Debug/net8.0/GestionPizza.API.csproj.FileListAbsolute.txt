@@ -128,3 +128,4 @@
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.API/obj/Debug/net8.0/GestionPizza.API.sourcelink.json
