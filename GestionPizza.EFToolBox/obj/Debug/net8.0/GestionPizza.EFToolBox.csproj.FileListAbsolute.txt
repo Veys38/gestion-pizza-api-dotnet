@@ -10,3 +10,4 @@
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.pdb
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/ref/GestionPizza.EFToolBox.dll
 /Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.csproj.AssemblyReference.cache
+/Users/veysel/Desktop/technifutur Formation 2024-2025/Sebastien Bya/Asp .net/Projet_Pizza/GestionPizza/GestionPizza.EFToolBox/obj/Debug/net8.0/GestionPizza.EFToolBox.sourcelink.json

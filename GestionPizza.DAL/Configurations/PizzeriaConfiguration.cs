@@ -13,5 +13,9 @@ public class PizzeriaConfiguration : IEntityTypeConfiguration<Pizzeria>
         
         builder.Property(p => p.Address).IsRequired();
         builder.Property(p => p.Address).HasMaxLength(200);
+        
+        builder.Property(p => p.Latitude).IsRequired();
+        builder.Property(p => p.Longitude).IsRequired();
+
     }
 }

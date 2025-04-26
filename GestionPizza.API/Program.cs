@@ -7,10 +7,13 @@ using System.Text;
 using GestionPizza.API.Utils;
 using GestionPizza.BLL.Services;
 using GestionPizza.BLL.Services.Interfaces;
+using GestionPizza.BLL.Utils;
 using GestionPizza.DAL.Context;
-using GestionPizza.DAL.Datas;
+using GestionPizza.API.Datas;
 using GestionPizza.DAL.Repositories;
 using GestionPizza.DAL.Repositories.Interfaces;
+using System.Threading.Tasks;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -102,6 +105,8 @@ builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IPizzeriaService, PizzeriaService>();
 builder.Services.AddScoped<JwtUtils>();
+builder.Services.AddScoped<IGeocodingService, GeocodingService>();
+
 
 
 
@@ -128,8 +133,10 @@ app.MapControllers();
 
 using (var scope = app.Services.CreateScope())
 {
-    var services = scope.ServiceProvider;
-    SeedData.Initialize(services);
+    var scopedProvider = scope.ServiceProvider;
+    await SeedData.InitializeAsync(scopedProvider);
 }
 
-app.Run();
+
+
+await app.RunAsync();

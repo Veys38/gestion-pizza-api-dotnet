@@ -6,7 +6,7 @@ namespace GestionPizza.BLL.Services.Interfaces
     {
         IEnumerable<Pizzeria> FindAll();
         Pizzeria FindById(Guid id);
-        Pizzeria Save(Pizzeria pizzeria);
+        Task<Pizzeria> Save(Pizzeria pizzeria);
         void Update(Guid id, Pizzeria pizzeria);
         void Delete(Guid id);
     }
