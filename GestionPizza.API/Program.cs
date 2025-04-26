@@ -106,6 +106,8 @@ builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IPizzeriaService, PizzeriaService>();
 builder.Services.AddScoped<JwtUtils>();
 builder.Services.AddScoped<IGeocodingService, GeocodingService>();
+builder.Services.AddScoped<IGeoService, GeoService>();
+
 
 
 

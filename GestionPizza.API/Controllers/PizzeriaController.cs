@@ -3,6 +3,8 @@ using GestionPizza.Dtos.Pizzeria;
 using GestionPizza.Mappeurs;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using GestionPizza.BLL.Models;
+
 
 namespace GestionPizza.Controllers;
 
@@ -57,4 +59,23 @@ public class PizzeriaController : ControllerBase
         _pizzeriaService.Delete(id);
         return Accepted();
     }
+    
+    [HttpGet("with-distance")]
+    public ActionResult<List<PizzeriaWithDistanceDto>> GetWithDistance([FromQuery] double lat, [FromQuery] double lon)
+    {
+        var results = _pizzeriaService.GetAllWithDistance(lat, lon);
+
+        var dtos = results.Select(p => new PizzeriaWithDistanceDto
+        {
+            Id = p.Id,
+            Name = p.Name,
+            Address = p.Address,
+            Latitude = p.Latitude,
+            Longitude = p.Longitude,
+            DistanceKm = (int)Math.Round(p.DistanceKm)
+        }).ToList();
+
+        return Ok(dtos);
+    }
+
 }
