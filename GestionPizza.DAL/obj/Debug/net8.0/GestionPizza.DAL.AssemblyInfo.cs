@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionPizza.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9725cd370ecf2c9162f1a247b7fd1e2194a9a184")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c812eaff9bba417773398a3e4911cd1d0258ab0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionPizza.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionPizza.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
