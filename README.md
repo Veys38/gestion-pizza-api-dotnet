@@ -47,11 +47,11 @@ dotnet run --project GestionPizza.API
 5. Access the API docs
  ➤ Open https://localhost:5001/swagger in your browser
 
-📍 Geolocation
+## 📍 Geolocation
 
 - The API uses OpenStreetMap’s Nominatim to automatically assign latitude and longitude to each pizzeria based on its address.
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 - Add payment integration
 - Improve error handling
