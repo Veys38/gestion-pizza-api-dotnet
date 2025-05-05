@@ -35,8 +35,8 @@ git clone https://github.com/your-username/gestion-pizza-api-dotnet.git
 cd gestion-pizza-api-dotnet
 
 2. Configure your PostgreSQL connection string
- ➤ Edit appsettings.json or appsettings.Development.json
- ➤ Replace the connection string with your PostgreSQL info
+- Edit appsettings.json or appsettings.Development.json
+-  Replace the connection string with your PostgreSQL info
 
 3. Apply database migrations
 dotnet ef database update
@@ -45,7 +45,7 @@ dotnet ef database update
 dotnet run --project GestionPizza.API
 
 5. Access the API docs
- ➤ Open https://localhost:5001/swagger in your browser
+- Open https://localhost:5001/swagger in your browser
 
 ## 📍 Geolocation
 
